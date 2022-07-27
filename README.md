@@ -8,16 +8,16 @@ A tool for labeling 68 face landmarks based on python-Qt5.
  * Python 3
 
 ## Getting Started
-1. Open a face image.
-<div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/1.jpg" width="800" />
+1. Run ```main.py```. 
+2. Open a face image.
+<div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/1.jpg" width="1000" />
  
-2. Click button "Set landmark". 
+3. Click button "Set landmark". 
+<div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/2.png" width="1000" />
 
-<img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/2.png" width="500" align="center" />
-
-3. Drag right mouse to select key points, and hold left mouse to move key points.
-<img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/3.png" width="500" align="center" />
-
-3. Click button "Save landmark" to save a .npy file. 
-<img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/4.png" width="500" align="center" />
-<img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/save.png" width="500" align="center" />
+4. Drag right mouse to select key points, and hold left mouse to move key points.
+<div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/3.png" width="1000" />
+5. Click button "Save landmark" to save a ```.npy``` file. 
+ <div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/4.png" width="1000" />
+  <div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/save.png" width="1000" />
+ 
