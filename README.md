@@ -9,8 +9,8 @@ A tool for labeling 68 face landmarks based on python-Qt5.
 
 ## Getting Started
 1. Open a face image.
-<img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/1.jpg" width="500" align="center" />
-
+<div align=center><div align=center><img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/1.jpg" width="800" />
+ 
 2. Click button "Set landmark". 
 
 <img src="https://github.com/SwordHolderSH/LandmarkTool/blob/main/demo/2.png" width="500" align="center" />
